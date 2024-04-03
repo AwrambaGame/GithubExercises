@@ -23,7 +23,7 @@ Create a new branch with your own name from the main branch of the GithubExercis
 
 Clone the repository to your local machine 
 
-Create a folder called Answers where you will submit your answers write the code of the C# files on that folder and commit the solutions when you are done.
+Create a folder called nameAnswers for example for Bisrat he will create a file called BisratAnswers folder where he will submit your answers. Write the code of the C# files on that folder and commit the solutions when you are done.
 
 When you are done with the answers push your code to github 
 
