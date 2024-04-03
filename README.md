@@ -8,33 +8,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- basic knowledge of git and github
-
+- Basic knowledge of git and github
 
 ### Installing
 
-To get started with the development environment, you will need to install the following:
-
-- Unity: 
 - C#: Unity uses C# as its primary programming language. Make sure you have a compatible version of Visual Studio or MonoDevelop installed.
-- MySQL: 
-- XAMPP: XAMPP is a popular tool for setting up a local web server environment. It can be useful for testing web-based features in your project.
 
-> Note: you will find the installation setup in the telegram group.
-
-Once you have installed these tools, you will be ready to start .
-
-A step by step series of examples that tell you how to get a development environment running.
 
 ## Contributing
 
 Before you start writing code, please read our [Code of Conduct](CODE_OF_CONDUCT.md). It outlines our expectations for participant behavior, as well as the steps for reporting unacceptable behavior.
 
-We encourage you to ask for a code review before merging your changes. This helps ensure the quality of our code and that every change is understood by most, if not all, team members.
+Create a new branch with your own name from the main branch of the GithubExercises repository
 
+Clone the repository to your local machine 
 
+Create a folder called Answers where you will submit your answers write the code of the C# files on that folder and commit the solutions when you are done.
 
+When you are done with the answers push your code to github 
 
+Create a pull request to a main branch and assign a reviewer to review your code.
+
+> We encourage you to ask for a code review before merging your changes. This helps ensure the quality of our code and that every change is understood by most, if not all, team members.
 
 
 ## Authors
