@@ -1,0 +1,15 @@
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\bin\Debug\net8.0\YonasAnswers.exe
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\bin\Debug\net8.0\YonasAnswers.deps.json
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\bin\Debug\net8.0\YonasAnswers.runtimeconfig.json
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\bin\Debug\net8.0\YonasAnswers.dll
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\bin\Debug\net8.0\YonasAnswers.pdb
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.GeneratedMSBuildEditorConfig.editorconfig
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.AssemblyInfoInputs.cache
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.AssemblyInfo.cs
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.csproj.CoreCompileInputs.cache
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.sourcelink.json
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.dll
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\refint\YonasAnswers.dll
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.pdb
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\YonasAnswers.genruntimeconfig.cache
+D:\folder\u\4s2\Software\Game\yonasAnswers\GithubExercises\YonasAnswers\obj\Debug\net8.0\ref\YonasAnswers.dll
