@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeddyAnswer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a586e51109d5e70f7a31d16bc57909bb753d21e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aaf89b34b734be143f844f5920e98505c0851ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeddyAnswer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeddyAnswer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
