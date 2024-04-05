@@ -1,0 +1,15 @@
+/home/teddy/GithubExercises/TeddyAnswer/Print String/bin/Debug/net8.0/Print String
+/home/teddy/GithubExercises/TeddyAnswer/Print String/bin/Debug/net8.0/Print String.deps.json
+/home/teddy/GithubExercises/TeddyAnswer/Print String/bin/Debug/net8.0/Print String.runtimeconfig.json
+/home/teddy/GithubExercises/TeddyAnswer/Print String/bin/Debug/net8.0/Print String.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print String/bin/Debug/net8.0/Print String.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.GeneratedMSBuildEditorConfig.editorconfig
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.AssemblyInfoInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.AssemblyInfo.cs
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.csproj.CoreCompileInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.sourcelink.json
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/refint/Print String.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/Print String.genruntimeconfig.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print String/obj/Debug/net8.0/ref/Print String.dll

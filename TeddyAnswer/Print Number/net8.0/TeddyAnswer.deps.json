@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TeddyAnswer/1.0.0": {
+        "runtime": {
+          "TeddyAnswer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeddyAnswer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+/home/teddy/GithubExercises/TeddyAnswer/bin/Debug/net8.0/TeddyAnswer
+/home/teddy/GithubExercises/TeddyAnswer/bin/Debug/net8.0/TeddyAnswer.deps.json
+/home/teddy/GithubExercises/TeddyAnswer/bin/Debug/net8.0/TeddyAnswer.runtimeconfig.json
+/home/teddy/GithubExercises/TeddyAnswer/bin/Debug/net8.0/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/bin/Debug/net8.0/TeddyAnswer.pdb
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.GeneratedMSBuildEditorConfig.editorconfig
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.AssemblyInfoInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.AssemblyInfo.cs
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.csproj.CoreCompileInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.sourcelink.json
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/refint/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.pdb
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/TeddyAnswer.genruntimeconfig.cache
+/home/teddy/GithubExercises/TeddyAnswer/obj/Debug/net8.0/ref/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/bin/Debug/net8.0/TeddyAnswer
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/bin/Debug/net8.0/TeddyAnswer.deps.json
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/bin/Debug/net8.0/TeddyAnswer.runtimeconfig.json
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/bin/Debug/net8.0/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/bin/Debug/net8.0/TeddyAnswer.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.GeneratedMSBuildEditorConfig.editorconfig
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.AssemblyInfoInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.AssemblyInfo.cs
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.csproj.CoreCompileInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.sourcelink.json
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/refint/TeddyAnswer.dll
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/TeddyAnswer.genruntimeconfig.cache
+/home/teddy/GithubExercises/TeddyAnswer/Print Number/obj/Debug/net8.0/ref/TeddyAnswer.dll

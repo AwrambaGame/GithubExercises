@@ -1,0 +1,15 @@
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/bin/Debug/net8.0/Fraction
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/bin/Debug/net8.0/Fraction.deps.json
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/bin/Debug/net8.0/Fraction.runtimeconfig.json
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/bin/Debug/net8.0/Fraction.dll
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/bin/Debug/net8.0/Fraction.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.AssemblyInfoInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.AssemblyInfo.cs
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.csproj.CoreCompileInputs.cache
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.sourcelink.json
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.dll
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/refint/Fraction.dll
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.pdb
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/Fraction.genruntimeconfig.cache
+/home/teddy/GithubExercises/TeddyAnswer/Fraction/obj/Debug/net8.0/ref/Fraction.dll
