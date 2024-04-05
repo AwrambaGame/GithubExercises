@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GutuAnswers/1.0.0": {
+        "runtime": {
+          "GutuAnswers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GutuAnswers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
