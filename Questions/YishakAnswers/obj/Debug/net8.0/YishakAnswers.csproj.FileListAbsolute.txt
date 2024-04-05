@@ -1,0 +1,15 @@
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\bin\Debug\net8.0\YishakAnswers.exe
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\bin\Debug\net8.0\YishakAnswers.deps.json
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\bin\Debug\net8.0\YishakAnswers.runtimeconfig.json
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\bin\Debug\net8.0\YishakAnswers.dll
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\bin\Debug\net8.0\YishakAnswers.pdb
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.AssemblyInfoInputs.cache
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.AssemblyInfo.cs
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.csproj.CoreCompileInputs.cache
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.sourcelink.json
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.dll
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\refint\YishakAnswers.dll
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.pdb
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\YishakAnswers.genruntimeconfig.cache
+C:\Users\YeabG\OneDrive\Desktop\GitPro\GithubExercises\Questions\YishakAnswers\obj\Debug\net8.0\ref\YishakAnswers.dll
