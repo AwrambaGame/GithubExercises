@@ -1,0 +1,15 @@
+C:\Users\HP\repos\GithubExercises\bin\Debug\net8.0\GithubExercises.exe
+C:\Users\HP\repos\GithubExercises\bin\Debug\net8.0\GithubExercises.deps.json
+C:\Users\HP\repos\GithubExercises\bin\Debug\net8.0\GithubExercises.runtimeconfig.json
+C:\Users\HP\repos\GithubExercises\bin\Debug\net8.0\GithubExercises.dll
+C:\Users\HP\repos\GithubExercises\bin\Debug\net8.0\GithubExercises.pdb
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.AssemblyInfoInputs.cache
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.AssemblyInfo.cs
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.csproj.CoreCompileInputs.cache
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.sourcelink.json
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.dll
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\refint\GithubExercises.dll
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.pdb
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\GithubExercises.genruntimeconfig.cache
+C:\Users\HP\repos\GithubExercises\obj\Debug\net8.0\ref\GithubExercises.dll
