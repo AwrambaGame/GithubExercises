@@ -1,0 +1,15 @@
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.GeneratedMSBuildEditorConfig.editorconfig
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.AssemblyInfoInputs.cache
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.AssemblyInfo.cs
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.csproj.CoreCompileInputs.cache
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.sourcelink.json
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/bin/Debug/net8.0/TekalignAnswers
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/bin/Debug/net8.0/TekalignAnswers.deps.json
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/bin/Debug/net8.0/TekalignAnswers.runtimeconfig.json
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/bin/Debug/net8.0/TekalignAnswers.dll
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/bin/Debug/net8.0/TekalignAnswers.pdb
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.dll
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/refint/TekalignAnswers.dll
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.pdb
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/TekalignAnswers.genruntimeconfig.cache
+/home/besu/Soft-Pro/CsharpProjects/GithubExercises/TekalignAnswers/obj/Debug/net8.0/ref/TekalignAnswers.dll
