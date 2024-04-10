@@ -1,3 +1,4 @@
 TeddyAnswer/bin
 TeddyAnswer/obj
 TeddyAnswer/TeddyAnswer.csproj
+*.vsidx
