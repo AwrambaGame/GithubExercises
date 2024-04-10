@@ -11,7 +11,7 @@ public class Fraction
     }
     void toStrings()
     {
-        double z = x / y;
-        Console.WriteLine(Convert.ToString(z));
+        double m = x / y;
+        Console.WriteLine(Convert.ToString(m));
     }
 }

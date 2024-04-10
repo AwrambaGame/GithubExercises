@@ -7,4 +7,3 @@ public class printString
     {
         Console.WriteLine(gameProject);
     }
-}
